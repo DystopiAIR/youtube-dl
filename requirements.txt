@@ -1,3 +1,5 @@
 streamlit
-pytube
+yt-dlp
+humanize
+jinja2
 # 其他你项目需要的依赖包
