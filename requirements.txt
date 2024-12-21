@@ -1,5 +1,6 @@
-streamlit
+fastapi
+uvicorn
+python-multipart
 yt-dlp
-humanize
 jinja2
-# 其他你项目需要的依赖包
+humanize
